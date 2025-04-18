@@ -1,0 +1,5 @@
+Python is powerful.
+I love learning new things.
+This challenge is fun!
+Let’s read and write files.
+Good luck with your code.
